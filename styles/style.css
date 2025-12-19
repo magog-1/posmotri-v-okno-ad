@@ -200,7 +200,15 @@ ol {
   width: 100%;
 }
 
+.content__card-link:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
 
+.button:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
 
 .button:active {
   background-color: #545050;
